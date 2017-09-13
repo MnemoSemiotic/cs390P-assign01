@@ -46,4 +46,6 @@
 
 
 2017_09_12
-    Created a git repository for the assignment 1 project and put my assignOneLog.txt document into it.  AssignOneLog.txt is where I'm keeping notes about what I'm doing generally.  
+    Created a git repository for the assignment 1 project and put my assignOneLog.txt document into it.  AssignOneLog.txt is where I'm keeping notes about what I'm doing generally. 
+    I used $ rails new profpanel to create the rails app.  I ran rails server in the profpanel directory and the application ran successfully (Screen Shot 2017-09-12 at 6.55.23 P).
+
