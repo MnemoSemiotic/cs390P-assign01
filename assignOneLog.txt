@@ -48,4 +48,17 @@
 2017_09_12
     Created a git repository for the assignment 1 project and put my assignOneLog.txt document into it.  AssignOneLog.txt is where I'm keeping notes about what I'm doing generally. 
     I used $ rails new profpanel to create the rails app.  I ran rails server in the profpanel directory and the application ran successfully (Screen Shot 2017-09-12 at 6.55.23 P).
+    I performed
+        $ git add .
+        $ git commit -m "added initial rails build"
+        $ git push
+
+2017_09_13
+    I created a branch in which to add the scaffold using these commands:
+        $ git branch addscaffold
+        $ git checkout testing
+
+    I read through the materials at https://www.tutorialspoint.com/ruby-on-rails/rails-scaffolding.htm, to try to understand best the way to create the professor.  It is currently unclear to me if I need to create scaffolds for professor, course, and section, or if I should run scaffold only once.  I'm doing this on my new branch so that I can roll back if I find a better answer.
+        $ rails generate scaffold Professor professorname:string professorid:integer
+
 
