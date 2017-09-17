@@ -54,7 +54,7 @@
         $ git push
 
 2017_09_13
-    I created a branch in which to add the scaffold using these commands:
+    I created a branch in which to add the professor scaffold using these commands:
         $ git branch addscaffold
         $ git checkout testing
 
@@ -79,8 +79,12 @@
      This a screenshot of http://localhost:3000/professors
         (Screen Shot 2017-09-13 at 10.18.07 AM)
 
+    
+2017_09_17
+     I added a professor and it worked. (Screen Shot Screen Shot 2017-09-17 at 1.37.02 PM ).  I'm able to add multiple professors. (Screen Shot Screen Shot 2017-09-17 at 1.38.26 PM & Screen Shot 2017-09-17 at 1.39.10 PM ).
+
+     I am going to attempt to build scaffolds for both the sections and courses.
+
+     I'm currently unable to merge the branches for some reason.  (Screen Shot 2017-09-17 at 1.59.30 PM). I'm going to turn the current directory into an OLD_ and clone my remote repository to get things square again.
 
 
-     NEXT: ADD A PROFESSOR
-
-     
